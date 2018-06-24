@@ -51,18 +51,7 @@ if menu == '1':
   time.sleep(1)
   print "[+] Success ea jancokkk"
   print "[!] Script is save as index.html"
-  print "Thanks To:"
-  print "[+] ALLAH SWT "
-  print "[+] HellMe "
-  print "[+] ./R41N53 "
-  print "[+] BlackDeath "
-  print "[+] NRT101"
-  print "[+] e90x "
-  print "[+] ./FL45H3R.33 "
-  print "[+] PatrickCibel "
-  print "[+] Xuner "
-  print "[+] And All Mem Xploiter Hacker Team"
-  print "For the support..."
+  print
   a = '"center"'
   aaa = '"#111111"'
   b = '"100%"'
@@ -98,6 +87,9 @@ if menu == '1':
   file.write("\n")
   file.write("\n")
   file.write("   </td></tr><tr bgco")
+	
+	
+	
   sys.exit()
   
 if menu == '2':
