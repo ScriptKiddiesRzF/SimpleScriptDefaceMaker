@@ -64,7 +64,7 @@ if menu == '1':
   h = '"#ffffff"'
   hh = '"#b21f25"'
   hhh = '"#333333"'
-  
+  print
   file.write(" <body bgcolor=black>\n")
   file.write("\n")
   file.write("<br><title>"+defstyletitle_simple+"</title></br>\n")
